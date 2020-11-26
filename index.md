@@ -5,7 +5,7 @@
 
 <u><b>Scientific Name:</b></u> Paludis Cornua
 
-<u><b>Characteristics:</b></u> Paludis Cornua has slimy, black skin with green dots; two, short, light blue horns; one, big, green eye; two, blue arms; two dark purple legs with webbed feet; and four, big, brown teeth.
+<u><b> Characteristics:</b></u> Paludis Cornua has slimy, black skin with green dots; two, short, light blue horns; one, big, green eye; two, blue arms; two dark purple legs with webbed feet; and four, big, brown teeth.
 
 <b>Body:</b> Paludis Cornua has slimy skin for a body. Skin is porous, so Paludis Cornua likely lives in a warm habitat that requires skin to keep itself cool. Paludis Cornua also has a black body with green dots. If Paludis Cornua lives in a dark environment, then the black body could serve as camouflage. If there are bioluminescent species living near Paludis Cornua, then the green dots could add to the camouflage. 
 
