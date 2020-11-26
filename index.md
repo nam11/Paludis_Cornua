@@ -1,8 +1,7 @@
 # Paludis Cornua
 ##### By: Natalie Mendoza
 
-<img src="Paludis%20Cornua.png">
-Paludis Cornua
+<img src="Paludis%20Cornua.png"><sub>Paludis Cornua</sub>
 
 <u><b>Scientific Name:</b></u> Paludis Cornua
 
